@@ -1,0 +1,26 @@
+{
+"name": "user-feedbackchongayaoyingyiding666",
+"version": "1.0.0",
+"description": "We value user feedback greatly. Your suggestions and opinions can help us continuously improve the project.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/manvillegoldammer/User-Feedback.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "manvillegoldammer",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
